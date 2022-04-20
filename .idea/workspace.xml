@@ -2,25 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ee7b2e2-7aba-49f9-9ec7-1ece4ebe6db6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cuties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/About.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Cuties.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Particles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Cuties.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cuties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Particles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +66,7 @@
       <updated>1650391007344</updated>
       <workItem from="1650391010913" duration="166000" />
       <workItem from="1650391183443" duration="266000" />
-      <workItem from="1650391553308" duration="15408000" />
+      <workItem from="1650391553308" duration="17094000" />
     </task>
     <servers />
   </component>
